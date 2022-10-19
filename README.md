@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Lotany
-- 👀 I’m interested in Programming at large Android Development,Web Design and Development.
-- 🌱 
-- 💞️ I’m looking to collaborate on Android Development and Web Development Project.
-- 📫 How to reach me via my email: ablekilinda@gmail.com or Whatsapp:https://wa.me/message/Y6KZOSJOCIZAL1
+                      👋 Hi, I’m AbleKilinda AKA 0's and 1'S. 
+
+                               Fullstack Developer 
+
+                                     SKILLS
+PYTHON | PHP | JAVASCRIPT | DJANGO | DART | SQL | JAVA | FLUTTER | NODE JS | HTML | CSS | BOOTSTRAP
+
+- 💞️ I’m looking forward to collaborate on Android and Web Development Projects.
+- 📫 Reach me via 
+my email: ablekilinda@gmail.com
+Whatsapp:https://wa.me/message/Y6KZOSJOCIZAL1
 
 <!---
 Lotany/Lotany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
