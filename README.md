@@ -1,6 +1,6 @@
                       👋 Hi, I’m AbleKilinda AKA 0's and 1'S. 
 
-                               Fullstack Developer 
+                               Backend Developer 
 
                                      SKILLS
 PYTHON | PHP | JAVASCRIPT | DJANGO | DART | SQL | JAVA | FLUTTER | NODE JS | HTML | CSS | BOOTSTRAP
