@@ -1,9 +1,9 @@
-                      👋 Hi, I’m AbleKilinda AKA 0's and 1'S. 
+                      👋 Hi, I’m Able Kilinda AKA 0's and 1'S. 
 
                                Backend Developer 
 
                                      SKILLS
-PYTHON | PHP | JAVASCRIPT | DJANGO | DART | SQL | JAVA | FLUTTER | NODE JS | HTML | CSS | BOOTSTRAP
+PYTHON | PHP | JAVASCRIPT | DART | SQL | FLUTTER | NODE JS | HTML | CSS | BOOTSTRAP
 
 - 💞️ I’m looking forward to collaborate on Android and Web Development Projects.
 - 📫 Reach me via 
