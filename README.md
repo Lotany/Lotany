@@ -3,7 +3,7 @@
                                Backend Developer 
 
                                      SKILLS
-PYTHON | PHP | JAVASCRIPT | DART | SQL | FLUTTER | NODE JS | HTML | CSS | BOOTSTRAP
+PYTHON | PHP | JAVASCRIPT | | SQL | FLASK | NODE JS | HTML | CSS | BOOTSTRAP
 
 - 💞️ I’m looking forward to collaborate on Android and Web Development Projects.
 - 📫 Reach me via 
